@@ -1,10 +1,9 @@
 1. mencoban menjalankan data wireshark dengan wifi
- ![3](https://github.com/mdiazalfarizi/Qos_Wireshark/assets/126410884/605056c4-6a9d-4fc3-9c03-c3b882492857)
-   ![1](https://github.com/mdiazalfarizi/Qos_Wireshark/assets/126410884/52bb8a9a-537f-4749-a004-a8efea4a751e)
+   ![1](https://github.com/mdiazalfarizi/Qos_Wireshark/assets/126410884/78217b3a-ce2c-4130-ad25-2f52141ac4d8)
 
-2. stelah membukan wifi buka aplikasi yg akan di jalan kan selama 10 menit untuk mendapatkan data, setelah semua di lakukan stop data tersebut
-   ![2](https://github.com/mdiazalfarizi/Qos_Wireshark/assets/126410884/6a6dcdce-63ea-4123-b987-8557914a0a27)
-
+2. setelah membuka wifi buka aplikasi yang akan di jalankan selama 10 menit untuk mendapatkan data, setelah semua di lakukan stop aplikasi tersebut
+   ![2](https://github.com/mdiazalfarizi/Qos_Wireshark/assets/126410884/acaf9dde-4f5c-42bd-a659-7bc218ea55ff)
+   
 3. THROUGHPUT
    selanjutnya kita akan menghitung throughput
    ![3](https://github.com/mdiazalfarizi/Qos_Wireshark/assets/126410884/3b61c939-8cd4-4bd1-84c2-fe7f9b75ed71)
