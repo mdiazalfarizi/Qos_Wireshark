@@ -36,7 +36,7 @@
    ![6](https://github.com/mdiazalfarizi/Qos_Wireshark/assets/126410884/f40e4eae-2287-476e-81a6-14c38d3346b4)
    jadi, didapatkan hasil dari nilai jitter dan rata-sata jitter juga sebagai berikut:
    total jitter= 1381.5802
-   rata-rata jitter= 0.0164935
+   rata-rata jitter= 0.0164935 
 
    
 
