@@ -1,4 +1,5 @@
-![3](https://github.com/mdiazalfarizi/Qos_Wireshark/assets/126410884/605056c4-6a9d-4fc3-9c03-c3b882492857)1. mencoban menjalankan data wireshark dengan wifi
+1. mencoban menjalankan data wireshark dengan wifi
+ ![3](https://github.com/mdiazalfarizi/Qos_Wireshark/assets/126410884/605056c4-6a9d-4fc3-9c03-c3b882492857)
    ![1](https://github.com/mdiazalfarizi/Qos_Wireshark/assets/126410884/52bb8a9a-537f-4749-a004-a8efea4a751e)
 
 2. stelah membukan wifi buka aplikasi yg akan di jalan kan selama 10 menit untuk mendapatkan data, setelah semua di lakukan stop data tersebut
