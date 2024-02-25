@@ -26,6 +26,21 @@
              = 114.5758661887694
 
 5. DELAY
+   menghitung delay
+   ![5](https://github.com/mdiazalfarizi/Qos_Wireshark/assets/126410884/50b26eec-e9e2-4cd4-b024-708247c824be)
+   jadi didapatkan nilai dari data delay dan rata-rata delay sebagai berikut
+   total delay= 1378.4232
+   rata-rata delay= 0.0164558
+
+6. JITTER
+   ![6](https://github.com/mdiazalfarizi/Qos_Wireshark/assets/126410884/f40e4eae-2287-476e-81a6-14c38d3346b4)
+   jadi, didapatkan hasil dari nilai jitter dan rata-sata jitter juga sebagai berikut:
+   total jitter= 1381.5802
+   rata-rata jitter= 0.0164935
+
+   
+
+
    
 
 
